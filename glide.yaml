@@ -1,0 +1,4 @@
+package: github.com/deadcheat/uuider
+import:
+- package: github.com/google/uuid
+  version: ^0.2.0
